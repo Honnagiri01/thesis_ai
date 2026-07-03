@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+python-docx
+reportlab
+sentence-transformers
+faiss-cpu
+transformers
+torch
+pandas
+numpy
